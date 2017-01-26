@@ -1,0 +1,1 @@
+Approves or rejects loan requests modeled from previous paid or unpaid loaner's data. Repo includes the dataset, data dictionary, and model in the Jupyter environment. 
